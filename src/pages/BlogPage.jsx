@@ -1,0 +1,1 @@
+const BlogPage = () => <div><h2>Блог</h2></div>; export default BlogPage;

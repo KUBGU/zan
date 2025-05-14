@@ -1,0 +1,1 @@
+const LoginPage = () => <div><h2>Вход</h2></div>; export default LoginPage;

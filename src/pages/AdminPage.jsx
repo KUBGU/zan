@@ -1,0 +1,1 @@
+const AdminPage = () => <div><h2>Админка</h2></div>; export default AdminPage;

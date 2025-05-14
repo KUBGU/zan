@@ -1,0 +1,1 @@
+const RegisterPage = () => <div><h2>Регистрация</h2></div>; export default RegisterPage;
